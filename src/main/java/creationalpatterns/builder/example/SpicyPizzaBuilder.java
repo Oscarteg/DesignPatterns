@@ -1,4 +1,4 @@
-package creationalpatterns.builder;
+package creationalpatterns.builder.example;
 
 /**
  * Created by oscar on 16/06/2017.

@@ -1,4 +1,4 @@
-package creationalpatterns.abstractFactory;
+package creationalpatterns.abstractFactory.example;
 
 /**
  * Created by Oscar on 23/04/2017.
