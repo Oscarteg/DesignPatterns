@@ -7,8 +7,8 @@ public class Waiter {
 
 	private PizzaBuilder pizzaBuilder;
 
-	public PizzaBuilder getPizzaBuilder() {
-		return pizzaBuilder;
+	public Pizza getPizza() {
+        return pizzaBuilder.getPizza();
 	}
 
 	public void setPizzaBuilder(PizzaBuilder pizzaBuilder) {
