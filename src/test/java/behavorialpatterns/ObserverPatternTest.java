@@ -3,6 +3,7 @@ package behavorialpatterns;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Disabled;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -20,7 +21,7 @@ public class ObserverPatternTest {
 
 	}
 
-	@Ignore
+	@Disabled
 	@Test
 	private void test() {
 		assertEquals(2, 3);
