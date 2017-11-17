@@ -18,13 +18,5 @@ public final class Singleton {
         }
         return instance;
     }
-
-    public void print () {
-        System.out.println("AALLALALAL");
-    }
-
-    public static void main(String[] args) {
-        Singleton.getInstance().print();
-    }
 }
 
